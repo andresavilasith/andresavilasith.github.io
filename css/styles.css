@@ -67,8 +67,8 @@ div.content {
     }
 }
 
-.socials-sidebar{
+.socials-links{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
